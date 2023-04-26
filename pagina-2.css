@@ -1,0 +1,567 @@
+.pagina2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: #1F4DBB;
+}
+.pagina2-topo {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.pagina2-topo1 {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  border-radius: var(--dl-radius-radius-radius8);
+  background-color: #D9D9D9;
+  border-top-left-radius: 000;
+  border-top-right-radius: 0;
+}
+.pagina2-image {
+  top: 6px;
+  left: 19px;
+  width: 187px;
+  height: 88px;
+  position: absolute;
+  object-fit: cover;
+}
+.pagina2-image1 {
+  top: 6px;
+  right: 19px;
+  width: 187px;
+  height: 88px;
+  position: absolute;
+  object-fit: cover;
+}
+.pagina2-text {
+  top: 35px;
+  left: 0px;
+  color: rgb(31, 77, 187);
+  right: 0px;
+  margin: auto;
+  position: absolute;
+  font-size: 30px;
+  text-align: center;
+  font-family: Arial Black;
+}
+.pagina2-topo2 {
+  top: 116px;
+  left: 0px;
+  right: 0px;
+  width: 1185px;
+  height: 62px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: flex-end;
+  background-color: #D9D9D9;
+}
+.pagina2-navlink {
+  top: 14px;
+  right: 14px;
+  position: absolute;
+  align-self: center;
+  box-shadow: 5px 5px 10px 0px #424141;
+  border-width: 0px;
+  border-radius: var(--dl-radius-radius-radius8);
+  text-decoration: none;
+}
+.pagina2-text01 {
+  top: 14px;
+  left: 14px;
+  color: #2C2E35;
+  right: 180px;
+  position: absolute;
+  font-family: Arial;
+}
+.pagina2-topo3 {
+  top: 189px;
+  left: 0px;
+  right: 0px;
+  width: 1185px;
+  height: 776px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: flex-start;
+  background-color: #D9D9D9;
+}
+.pagina2-button {
+  right: 14px;
+  bottom: 14px;
+  position: absolute;
+  align-self: center;
+  box-shadow: rgb(66, 65, 65) 5px 5px 10px 0px;
+  border-width: 0px;
+  border-radius: var(--dl-radius-radius-radius8);
+}
+.pagina2-navlink1 {
+  top: 14px;
+  right: 14px;
+  position: absolute;
+  align-self: center;
+  box-shadow: rgb(66, 65, 65) 5px 5px 10px 0px;
+  border-width: 0px;
+  border-radius: var(--dl-radius-radius-radius8);
+  text-decoration: none;
+}
+.pagina2-text02 {
+  left: 14px;
+  color: rgb(44, 46, 53);
+  bottom: 128px;
+  position: absolute;
+  font-family: Arial;
+}
+.pagina2-container1 {
+  top: 14px;
+  left: 14px;
+  width: 973px;
+  height: 390.8125px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: flex-start;
+}
+.pagina2-text05 {
+  top: 0px;
+  left: 0px;
+  color: rgb(44, 46, 53);
+  position: absolute;
+  font-family: Arial;
+}
+.pagina2-text06 {
+  font-size: 20px;
+}
+.pagina2-textinput {
+  flex: 1;
+  left: 85px;
+  color: #2C2E35;
+  width: 887px;
+  bottom: 45.8125px;
+  height: 139px;
+  position: absolute;
+  text-align: justify;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-textinput1 {
+  top: 108px;
+  flex: 1;
+  left: 154px;
+  color: #2C2E35;
+  width: 819px;
+  height: 31px;
+  position: absolute;
+  text-align: justify;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-textinput2 {
+  top: 71px;
+  flex: 1;
+  left: 82px;
+  color: #2C2E35;
+  width: 891px;
+  height: 31px;
+  position: absolute;
+  text-align: justify;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-textinput3 {
+  top: 34px;
+  flex: 1;
+  left: 144px;
+  color: #2C2E35;
+  width: 829px;
+  height: 31px;
+  position: absolute;
+  text-align: justify;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-button1 {
+  top: 151px;
+  left: 43px;
+  color: #2C2E35;
+  position: absolute;
+  font-size: 14px;
+  box-shadow: 5px 5px 10px 0px #424141;
+  font-family: Arial;
+  border-width: 0px;
+  border-radius: var(--dl-radius-radius-radius8);
+}
+.pagina2-container2 {
+  top: 490px;
+  left: 0px;
+  right: 0px;
+  width: 1149px;
+  height: 71px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: flex-start;
+}
+.pagina2-input1 {
+  top: 1px;
+  flex: 1;
+  left: 60px;
+  color: #2C2E35;
+  width: 75px;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input2 {
+  flex: 1;
+  left: 60px;
+  color: #2C2E35;
+  width: 75px;
+  bottom: 0px;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input3 {
+  top: 0px;
+  flex: 1;
+  left: 138px;
+  color: #2C2E35;
+  width: 75px;
+  bottom: auto;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input4 {
+  top: auto;
+  flex: 1;
+  left: 138px;
+  color: #2C2E35;
+  width: 75px;
+  bottom: 0px;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input5 {
+  top: 0px;
+  flex: 1;
+  left: 216px;
+  color: #2C2E35;
+  right: auto;
+  width: 75px;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input6 {
+  flex: 1;
+  left: 216px;
+  color: #2C2E35;
+  width: 75px;
+  bottom: 0px;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input7 {
+  top: 1px;
+  flex: 1;
+  left: 294px;
+  color: #2C2E35;
+  width: 75px;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input8 {
+  flex: 1;
+  left: 294px;
+  color: #2C2E35;
+  right: 8px;
+  width: 75px;
+  bottom: 0px;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input9 {
+  top: 0px;
+  flex: 1;
+  left: 372px;
+  color: #2C2E35;
+  width: 75px;
+  bottom: auto;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input10 {
+  top: auto;
+  flex: 1;
+  left: 372px;
+  color: #2C2E35;
+  width: 75px;
+  bottom: 0px;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input11 {
+  top: 00px;
+  flex: 1;
+  left: 450px;
+  color: #2C2E35;
+  width: 75px;
+  bottom: auto;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input12 {
+  top: auto;
+  flex: 1;
+  left: 450px;
+  color: #2C2E35;
+  right: 110px;
+  width: 75px;
+  bottom: 0px;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input13 {
+  top: 0px;
+  flex: 1;
+  left: 528px;
+  color: #2C2E35;
+  width: 75px;
+  bottom: auto;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input14 {
+  top: auto;
+  flex: 1;
+  left: 528px;
+  color: #2C2E35;
+  width: 75px;
+  bottom: 00px;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input15 {
+  top: 0px;
+  flex: 1;
+  left: 606px;
+  color: #2C2E35;
+  width: 75px;
+  bottom: autto;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input16 {
+  top: auto;
+  flex: 1;
+  left: 606px;
+  color: #2C2E35;
+  width: 75px;
+  bottom: 0px;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input17 {
+  top: 0px;
+  flex: 1;
+  left: 684px;
+  color: #2C2E35;
+  right: 315px;
+  width: 75px;
+  bottom: auto;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input18 {
+  top: auto;
+  flex: 1;
+  left: 684px;
+  color: #2C2E35;
+  width: 75px;
+  bottom: 0px;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input19 {
+  top: 1px;
+  flex: 1;
+  left: 762px;
+  color: #2C2E35;
+  right: 9px;
+  width: 75px;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input20 {
+  top: auto;
+  flex: 1;
+  left: 762px;
+  color: #2C2E35;
+  width: 75px;
+  bottom: 0px;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input21 {
+  top: 0px;
+  flex: 1;
+  left: 840px;
+  color: #2C2E35;
+  right: 212px;
+  width: 75px;
+  bottom: auto;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input22 {
+  top: auto;
+  flex: 1;
+  left: 840px;
+  color: #2C2E35;
+  width: 75px;
+  bottom: 0px;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input23 {
+  top: 0px;
+  flex: 1;
+  left: 918px;
+  color: #2C2E35;
+  right: 213px;
+  width: 75px;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input24 {
+  flex: 1;
+  left: 918px;
+  color: #2C2E35;
+  width: 75px;
+  bottom: 0px;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input25 {
+  top: 00px;
+  flex: 1;
+  left: 996px;
+  color: #2C2E35;
+  width: 75px;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input26 {
+  flex: 1;
+  left: 996px;
+  color: #2C2E35;
+  width: 75px;
+  bottom: 0px;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input27 {
+  top: 0px;
+  flex: 1;
+  left: 1074px;
+  color: #2C2E35;
+  width: 75px;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-input28 {
+  flex: 1;
+  left: 1074px;
+  color: #2C2E35;
+  width: 75px;
+  bottom: 0px;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pagina2-text37 {
+  top: 9px;
+  left: 0px;
+  color: rgb(44, 46, 53);
+  position: absolute;
+  font-family: Arial;
+}
+.pagina2-textinput4 {
+  flex: 1;
+  left: 15px;
+  color: #2C2E35;
+  width: 100px;
+  bottom: 87px;
+  position: absolute;
+  border-width: 0px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
